@@ -1,8 +1,3 @@
-## The "Master" README Template
-
-Create a file named `README.md` in your root directory. Here is a high-quality template you can copy and adapt:
-
-```markdown
 # Frontend Project Collection 🚀
 
 Welcome to my central repository for frontend development. This monorepo serves as a showcase of my journey from core web technologies (HTML/CSS/JS) to modern frameworks like React.
