@@ -2,7 +2,11 @@
 
 Welcome to my central repository for frontend development. This monorepo serves as a showcase of my journey from core web technologies (HTML/CSS/JS) to modern frameworks like React.
 
-**🌐 Live Demo:** [Replace with your GitHub Pages URL]
+**🌐 Live Demo:**
+- https://vaibhav-around.github.io/frontend-projects/index.html
+- https://vaibhav-around.github.io/frontend-projects/shop-jacket/index.html
+- https://vaibhav-around.github.io/frontend-projects/cotton-weave/index.html
+- https://vaibhav-around.github.io/frontend-projects/Treadline/index.html
 
 ---
 
@@ -12,9 +16,9 @@ I use a monorepo structure to manage multiple projects efficiently. Each folder 
 
 
 
-- `shop-jacket/`: Focuses on semantic HTML and responsive design.
-- `cotton-weave/`: Focuses on semantic HTML and responsive design.
-- `project2-js-logic/`: Demonstrates DOM manipulation, API fetching, and ES6+.
+- `shop-jacket/` Made with Html and css.
+- `cotton-weave/`: Made with Html and css.
+- `treadLine/`: Made with Html, css and js.
 - `future-react-app/`: (Upcoming) State management and component-based architecture.
 
 ---
@@ -25,22 +29,6 @@ I use a monorepo structure to manage multiple projects efficiently. Each folder 
 - **Tools & Workflow:** Git, GitHub Pages, NPM/Yarn
 - **Concepts:** Responsive Web Design, Flexbox/Grid, Asynchronous Programming, BEM Methodology
 
----
-
-## 🚀 Projects Overview
-
-### 1. [Project Name 1]
-* **Purpose:** [e.g., A weather dashboard to practice API integration.]
-* **Key Features:** * Real-time data fetching.
-    * Mobile-first responsive layout.
-* **Technical Challenge:** Overcoming CORS issues when fetching from third-party APIs.
-
-### 2. [Project Name 2]
-* **Purpose:** [e.g., A Todo application with local storage.]
-* **Key Features:** * Persistent data using `localStorage`.
-    * Custom CSS animations.
-
----
 
 ## ⚙️ How to Run Locally
 
